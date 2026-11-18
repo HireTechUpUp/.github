@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://www.upcv.tech/">
+  <a href="https://www.upcv.tech/?channel=github">
     <img src="https://raw.githubusercontent.com/HireTechUpUp/.github/main/profile/assets/hero-generated-v3.png" width="100%" alt="UP 求职 · 向上科技。AI 找工作，就是用 UP。专业的求职顾问 AI。">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.upcv.tech/"><b>体验 UP 求职 ↗</b></a> &nbsp; · &nbsp;
+  <a href="https://www.upcv.tech/?channel=github"><b>体验 UP 求职 ↗</b></a> &nbsp; · &nbsp;
   <a href="https://github.com/HireTechUpUp?tab=repositories">开源项目</a> &nbsp; · &nbsp;
-  <a href="https://www.upcv.tech/about">关于我们</a>
+  <a href="https://www.upcv.tech/about?channel=github">关于我们</a>
 </p>
 
 <h2>让 AI 真正参与求职的每一步</h2>
@@ -15,11 +15,11 @@
 <p>我们也将求职场景中的工具与实践开放给开发者，一起探索 Agent 能为职业发展带来什么。</p>
 
 <p>
-  <a href="https://www.upcv.tech/">
+  <a href="https://www.upcv.tech/?channel=github">
     <img src="https://raw.githubusercontent.com/HireTechUpUp/.github/main/profile/assets/agent-demo.gif" width="100%" alt="UP 求职官网产品演示节选：Agent 解析简历、建立求职画像并筛选匹配职位。">
   </a>
 </p>
-<p align="center"><sub>UP 求职官网演示节选 · 示例场景 &nbsp; / &nbsp; <a href="https://www.upcv.tech/">前往官网观看完整演示 ↗</a></sub></p>
+<p align="center"><sub>UP 求职官网演示节选 · 示例场景 &nbsp; / &nbsp; <a href="https://www.upcv.tech/?channel=github">前往官网观看完整演示 ↗</a></sub></p>
 
 <h3>从一份简历，走向下一次机会</h3>
 <ul>
@@ -28,7 +28,7 @@
   <li><strong>投递协作</strong> — 结合浏览器插件，辅助填写网申、准备投递并跟进进度。</li>
   <li><strong>模拟面试</strong> — 围绕目标岗位练习，获得逐题反馈和改进建议。</li>
 </ul>
-<p><a href="https://www.upcv.tech/dashboard/agent"><b>打开求职工作台 →</b></a> &nbsp; <a href="https://www.upcv.tech/xiaozhao">浏览校招信息 →</a></p>
+<p><a href="https://www.upcv.tech/dashboard/agent?channel=github"><b>打开求职工作台 →</b></a> &nbsp; <a href="https://www.upcv.tech/xiaozhao?channel=github">浏览校招信息 →</a></p>
 
 <h2>把求职能力，带进你的 Agent</h2>
 <p>从可直接使用的工具，到可复用的提示词和模板，选择适合你的起点。</p>
@@ -66,6 +66,6 @@
 
 <h2>一起，让求职体验向上一步</h2>
 <p>欢迎体验产品、反馈问题，也欢迎围绕 Agent、MCP 与求职场景交流合作。</p>
-<p><a href="https://www.upcv.tech/">产品体验</a> &nbsp; / &nbsp; <a href="https://github.com/HireTechUpUp?tab=repositories">项目与贡献</a> &nbsp; / &nbsp; <a href="https://www.upcv.tech/about">了解我们</a> &nbsp; / &nbsp; <a href="https://www.upcv.tech/join">加入我们</a></p>
+<p><a href="https://www.upcv.tech/?channel=github">产品体验</a> &nbsp; / &nbsp; <a href="https://github.com/HireTechUpUp?tab=repositories">项目与贡献</a> &nbsp; / &nbsp; <a href="https://www.upcv.tech/about?channel=github">了解我们</a> &nbsp; / &nbsp; <a href="https://www.upcv.tech/join?channel=github">加入我们</a></p>
 <hr>
-<p align="center"><sub>UP 求职 · 向上科技 &nbsp; | &nbsp; AI × CAREER &nbsp; | &nbsp; <a href="https://www.upcv.tech/">upcv.tech</a></sub></p>
+<p align="center"><sub>UP 求职 · 向上科技 &nbsp; | &nbsp; AI × CAREER &nbsp; | &nbsp; <a href="https://www.upcv.tech/?channel=github">upcv.tech</a></sub></p>
